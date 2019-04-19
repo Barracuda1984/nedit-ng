@@ -45,7 +45,19 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;The regular expression matching routines used in NEdit are adapted (with permission) from original code written by Henry Spencer at the University of Toronto.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;&gt;Thank you to those who wrote the original syntax highlighting patterns:&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;Simon T. MacDonald,  Maurice Leysens, Matt Majka, Alfred Smeenk, Alain Fargues, Christopher Conrad, Scott Markinson, Konrad Bernloehr, Ivan Herman, Patrice Venant, Christian Denat, Philippe Couton, Max Vohlken, Markus Schwarzenberg, Himanshu Gohel, Steven C. Kapp, Michael Turomsha, John Fieber, Chris Ross, Nathaniel Gray, Joachim Lous, Mike Duigou, Seak Teng-Fong, Joor Loohuis, Mark Jones, and Niek van den Berg.&lt;br /&gt;&lt;br /&gt;If there is someone who I have overlooked, please let me know.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//CS&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Monospace&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt; Děkuji původním autorům NEditu. Po celá léta byl NEdit můj editor číslo jedna. Jsem opravdu nejproduktivnější při jeho používání a mohu jen doufat, že příspěvek bude užitečný.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;&gt;Děkuji těm, kteří napsali původní NEdit:&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;Mark Edel, Joy Kyriakopulos, Christopher Conrad, Jim Clark, Arnulfo Zepeda-Navratil, Suresh Ravoor, Tony Balinski, Max Vohlken, Yunliang Yu, Donna Reid, Arne Førlie, Eddy De Greef, Steve LoBasso, Alexander Mai, Scott Tringali, Thorsten Haude, Steve Haehn, Andrew Hood, Nathaniel Gray, and TK Soh.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;&gt;&lt;br /&gt; Děkuji těm, kteří napsali regex engine, který převzat do NEditu:&lt;/span&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;Rutina pro porovnání regulárních výrazů používaná v NEditu byla pravena (s povolením) z původního kódu napsaného Henrym Spencerem z University of Toronto.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;&gt;Děkuji těm, kteří napsali originální zvýraznění syntaxe:&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;Simon T. MacDonald,  Maurice Leysens, Matt Majka, Alfred Smeenk, Alain Fargues, Christopher Conrad, Scott Markinson, Konrad Bernloehr, Ivan Herman, Patrice Venant, Christian Denat, Philippe Couton, Max Vohlken, Markus Schwarzenberg, Himanshu Gohel, Steven C. Kapp, Michael Turomsha, John Fieber, Chris Ross, Nathaniel Gray, Joachim Lous, Mike Duigou, Seak Teng-Fong, Joor Loohuis, Mark Jones, and Niek van den Berg.&lt;br /&gt;&lt;br /&gt;Pokud je někdo, koho jsem přehlédl, dejte mi prosím vědět. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../../DialogAbout.ui" line="87"/>
@@ -60,7 +72,12 @@ p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Monospace&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;Xuo &amp;lt;https://github.com/ericxuo&amp;gt; - French&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;&lt;br /&gt;Want to contribute? Email the author at &lt;/span&gt;&lt;a href=&quot;mailto:evan.teran@gmail.com&quot;&gt;&lt;span style=&quot; font-size:9pt; text-decoration: underline; color:#0057ae;&quot;&gt;evan.teran@gmail.com&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//CS&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Monospace&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;Xuo &amp;lt;https://github.com/ericxuo&amp;gt; - Francoužština&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;&lt;br /&gt;Chcete přispět? Napište autorovi na  &lt;/span&gt;&lt;a href=&quot;mailto:evan.teran@gmail.com&quot;&gt;&lt;span style=&quot; font-size:9pt; text-decoration: underline; color:#0057ae;&quot;&gt;evan.teran@gmail.com&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../../DialogAbout.ui" line="117"/>
@@ -409,7 +426,7 @@ consider it more useful to permit linking proprietary applications with the
 library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.
 </source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../DialogAbout.cpp" line="16"/>
@@ -424,23 +441,37 @@ nedit-ng was written by Evan Teran. It is intended to be a modern replacement fo
 * Code as been reworked using modern C++ techniques using a toolkit with an active developer community, making it significantly easier for contributions to be made by the open source community.
 </source>
         <translation>% 1
-nedit-ng napsal Evan Teran. Je určena jako moderní náhrada editoru Nirvana (aka NEdit). Autor již mnoho let používal NEdit jako svého primárního editoru kódu, a přestože je nadále nadřazeným redaktorem mnoha způsoby, bohužel ukazuje jeho věk. Takže nedit-ng se narodil z touhy mít editor, který funguje co nejblíže originálu, ale s využitím moderního toolkitu (Qt). To umožní nedávno využít výhody moderních funkcí, jako jsou:
+nedit-ng napsal Evan Teran. Je určen jako moderní náhrada editoru Nirvana (aka NEdit). Autor již mnoho let používal NEdit jako svuj primární editor kódu, a přestože je NEdit nadále výknooný editor mnoha způsoby, se bohužel ukazuje jeho věk. Takže nedit-ng se narodil z touhy mít editor, který funguje co nejblíže originálu, ale s využitím moderního toolkitu (Qt). To umožní využít výhody moderních funkcí, jako jsou:
 
-* Anti-aliased vykreslování písma.
+* Anti-aliasing při vykreslování písma.
 * Podpora internacionalizace.
 * Moderní vzhled a pocit.
 * Vnitřně se používají počítané řetězce namísto NUL ukončených řetězců.
 * Použití kontejnerů C ++ znamená, že již neexistují mnoho mezních rozměrů.
-* Kód byl přepracován pomocí moderních C ++ technik pomocí sady nástrojů s aktivní komunitou vývojářů, což značně usnadňuje příspěvky od open source komunity.
-</translation>
+* Kód byl přepracován pomocí moderního  C ++ pomocí sady nástrojů s aktivní komunitou vývojářů, což značně usnadňuje příspěvky od open source komunity.</translation>
     </message>
     <message>
         <location filename="../../DialogAbout.cpp" line="35"/>
         <source>%1.%2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1.%2</translation>
     </message>
     <message>
         <location filename="../../DialogAbout.cpp" line="38"/>
+        <source>nedit-ng version %1
+
+     Built on: %2, %3, %4
+      With Qt: %7
+   Running Qt: %8
+       Locale: %9
+</source>
+        <translation>nedit-ng verze %1
+
+Kompilováno na: %2, %3, %4
+S Qt verze: %7
+Aktuální verze  Qt: %8
+Lokalizace: %9</translation>
+    </message>
+    <message>
         <source>nedit-ng version %1
 
      Built on: %2, %3, %4
@@ -449,7 +480,7 @@ nedit-ng napsal Evan Teran. Je určena jako moderní náhrada editoru Nirvana (a
    Running Qt: %8
        Locale: %9
 </source>
-        <translation>nedit-ng verze %1
+        <translation type="vanished">nedit-ng verze %1
 
 Kompilováno na: %2, %3, %4
 Kompilováno dne : %5, %6
@@ -468,42 +499,43 @@ Lokalizace: %9</translation>
     <message>
         <location filename="../../DialogColors.ui" line="22"/>
         <source>Plain Text Foreground</source>
-        <translation type="unfinished"></translation>
+        <translation>Popředí textu</translation>
     </message>
     <message>
         <location filename="../../DialogColors.ui" line="40"/>
         <source>Text Area Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Pozadí textové oblasti</translation>
     </message>
     <message>
         <location filename="../../DialogColors.ui" line="58"/>
         <source>Selection Foreground</source>
-        <translation type="unfinished"></translation>
+        <translation>Výběr popředí</translation>
     </message>
     <message>
         <location filename="../../DialogColors.ui" line="76"/>
         <source>Selection Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Výběr pozadí</translation>
     </message>
     <message>
         <location filename="../../DialogColors.ui" line="94"/>
         <source>Matching (..) Foreground</source>
-        <translation type="unfinished"></translation>
+        <translation>24/5000
+Odpovídající (..) Popředí</translation>
     </message>
     <message>
         <location filename="../../DialogColors.ui" line="112"/>
         <source>Matching (..) Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Odpovídající (..) Pozadí</translation>
     </message>
     <message>
         <location filename="../../DialogColors.ui" line="130"/>
-        <source>Line Numbers Forground</source>
-        <translation type="unfinished"></translation>
+        <source>Line Numbers Foreground</source>
+        <translation>Čísla řádků popředí</translation>
     </message>
     <message>
         <location filename="../../DialogColors.ui" line="148"/>
         <source>Line Numbers Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Čísla řádků pozadí</translation>
     </message>
     <message>
         <location filename="../../DialogColors.ui" line="166"/>
@@ -587,101 +619,76 @@ Lokalizace: %9</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogDrawingStyles.cpp" line="23"/>
-        <source>document-new</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../DialogDrawingStyles.cpp" line="24"/>
-        <source>edit-delete</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../DialogDrawingStyles.cpp" line="25"/>
-        <source>edit-copy</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../DialogDrawingStyles.cpp" line="26"/>
-        <source>go-up</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../DialogDrawingStyles.cpp" line="27"/>
-        <source>go-down</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../DialogDrawingStyles.cpp" line="90"/>
+        <location filename="../../DialogDrawingStyles.cpp" line="99"/>
         <source>New Item</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogDrawingStyles.cpp" line="91"/>
+        <location filename="../../DialogDrawingStyles.cpp" line="100"/>
         <source>black</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogDrawingStyles.cpp" line="219"/>
+        <location filename="../../DialogDrawingStyles.cpp" line="228"/>
         <source>Discard Entry</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogDrawingStyles.cpp" line="221"/>
+        <location filename="../../DialogDrawingStyles.cpp" line="230"/>
         <source>Discard incomplete entry for current highlight style?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogDrawingStyles.cpp" line="222"/>
+        <location filename="../../DialogDrawingStyles.cpp" line="231"/>
         <source>Keep</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogDrawingStyles.cpp" line="325"/>
-        <location filename="../../DialogDrawingStyles.cpp" line="415"/>
-        <location filename="../../DialogDrawingStyles.cpp" line="473"/>
+        <location filename="../../DialogDrawingStyles.cpp" line="334"/>
+        <location filename="../../DialogDrawingStyles.cpp" line="424"/>
+        <location filename="../../DialogDrawingStyles.cpp" line="482"/>
         <source>Highlight Style</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogDrawingStyles.cpp" line="326"/>
+        <location filename="../../DialogDrawingStyles.cpp" line="335"/>
         <source>Please specify a name for the highlight style</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogDrawingStyles.cpp" line="341"/>
+        <location filename="../../DialogDrawingStyles.cpp" line="350"/>
         <source>Style Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogDrawingStyles.cpp" line="341"/>
+        <location filename="../../DialogDrawingStyles.cpp" line="350"/>
         <source>Please specify a color for the highlight style</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogDrawingStyles.cpp" line="350"/>
-        <location filename="../../DialogDrawingStyles.cpp" line="369"/>
+        <location filename="../../DialogDrawingStyles.cpp" line="359"/>
+        <location filename="../../DialogDrawingStyles.cpp" line="378"/>
         <source>Invalid Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogDrawingStyles.cpp" line="350"/>
+        <location filename="../../DialogDrawingStyles.cpp" line="359"/>
         <source>Invalid X color specification: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogDrawingStyles.cpp" line="370"/>
+        <location filename="../../DialogDrawingStyles.cpp" line="379"/>
         <source>Invalid X background color specification: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogDrawingStyles.cpp" line="416"/>
-        <location filename="../../DialogDrawingStyles.cpp" line="473"/>
+        <location filename="../../DialogDrawingStyles.cpp" line="425"/>
+        <location filename="../../DialogDrawingStyles.cpp" line="482"/>
         <source>There must be at least one Plain entry. Cannot rename this entry.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogDrawingStyles.cpp" line="521"/>
+        <location filename="../../DialogDrawingStyles.cpp" line="530"/>
         <source>#%1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -691,13 +698,13 @@ Lokalizace: %9</translation>
     <message>
         <location filename="../../DialogDuplicateTags.ui" line="14"/>
         <source>Duplicate Tags_popup</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplikovat značku</translation>
     </message>
     <message>
         <location filename="../../DialogDuplicateTags.ui" line="20"/>
         <location filename="../../DialogDuplicateTags.cpp" line="20"/>
         <source>Select File With TAG: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyberte soubor se značkama (tagy):%1</translation>
     </message>
 </context>
 <context>
@@ -705,13 +712,14 @@ Lokalizace: %9</translation>
     <message>
         <location filename="../../DialogExecuteCommand.ui" line="14"/>
         <source>Execute Command</source>
-        <translation type="unfinished"></translation>
+        <translation>Vykonej příkaz</translation>
     </message>
     <message>
         <location filename="../../DialogExecuteCommand.ui" line="33"/>
         <source>Shell command:   (use up arrow key to recall previous;
 % expands to current filename, # to line number)</source>
-        <translation type="unfinished"></translation>
+        <translation>Příkaz Shellu: (pro vyvolání předchozího tlačítka použijte šipku nahoru;
+% se rozšíří na aktuální název souboru a # na číslo řádku)</translation>
     </message>
 </context>
 <context>
@@ -719,12 +727,13 @@ Lokalizace: %9</translation>
     <message>
         <location filename="../../DialogFilter.ui" line="14"/>
         <source>Filter Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Výběr filtru</translation>
     </message>
     <message>
         <location filename="../../DialogFilter.ui" line="33"/>
         <source>Shell command:  (use up arrow key to recall previous)</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>may be a wrong original text</translatorcomment>
+        <translation>Příkaz Shellu: (pro vyvolání předchozího použijte šipku nahoru)</translation>
     </message>
 </context>
 <context>
@@ -732,7 +741,7 @@ Lokalizace: %9</translation>
     <message>
         <location filename="../../DialogFind.ui" line="14"/>
         <location filename="../../DialogFind.ui" line="145"/>
-        <location filename="../../DialogFind.cpp" line="93"/>
+        <location filename="../../DialogFind.cpp" line="107"/>
         <source>Find</source>
         <translation type="unfinished"></translation>
     </message>
@@ -792,18 +801,18 @@ Lokalizace: %9</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogFind.cpp" line="91"/>
-        <location filename="../../DialogFind.cpp" line="325"/>
+        <location filename="../../DialogFind.cpp" line="105"/>
+        <location filename="../../DialogFind.cpp" line="339"/>
         <source>Find (in %1)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogFind.cpp" line="244"/>
+        <location filename="../../DialogFind.cpp" line="258"/>
         <source>Regex Error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogFind.cpp" line="245"/>
+        <location filename="../../DialogFind.cpp" line="259"/>
         <source>Please respecify the search string:
 %1</source>
         <translation type="unfinished"></translation>
@@ -814,17 +823,17 @@ Lokalizace: %9</translation>
     <message>
         <location filename="../../DialogFonts.ui" line="14"/>
         <source>Text Fonts</source>
-        <translation type="unfinished"></translation>
+        <translation>Písmo</translation>
     </message>
     <message>
         <location filename="../../DialogFonts.ui" line="20"/>
         <source>Editor Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Písmo editoru</translation>
     </message>
     <message>
-        <location filename="../../DialogFonts.cpp" line="29"/>
+        <location filename="../../DialogFonts.cpp" line="34"/>
         <source>%1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1</translation>
     </message>
 </context>
 <context>
@@ -941,121 +950,96 @@ Lokalizace: %9</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogLanguageModes.cpp" line="28"/>
-        <source>document-new</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../DialogLanguageModes.cpp" line="29"/>
-        <source>edit-delete</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../DialogLanguageModes.cpp" line="30"/>
-        <source>edit-copy</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../DialogLanguageModes.cpp" line="31"/>
-        <source>go-up</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../DialogLanguageModes.cpp" line="32"/>
-        <source>go-down</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../DialogLanguageModes.cpp" line="122"/>
+        <location filename="../../DialogLanguageModes.cpp" line="129"/>
         <source>Discard Entry</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogLanguageModes.cpp" line="124"/>
+        <location filename="../../DialogLanguageModes.cpp" line="131"/>
         <source>Discard incomplete entry for current menu item?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogLanguageModes.cpp" line="125"/>
+        <location filename="../../DialogLanguageModes.cpp" line="132"/>
         <source>Keep</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogLanguageModes.cpp" line="257"/>
+        <location filename="../../DialogLanguageModes.cpp" line="264"/>
         <source>Language Mode Name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogLanguageModes.cpp" line="257"/>
+        <location filename="../../DialogLanguageModes.cpp" line="264"/>
         <source>Please specify a name for the language mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogLanguageModes.cpp" line="276"/>
+        <location filename="../../DialogLanguageModes.cpp" line="283"/>
         <source>Regex</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogLanguageModes.cpp" line="276"/>
+        <location filename="../../DialogLanguageModes.cpp" line="283"/>
         <source>Recognition expression:
 %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogLanguageModes.cpp" line="290"/>
+        <location filename="../../DialogLanguageModes.cpp" line="297"/>
         <source>Error reading Calltips</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogLanguageModes.cpp" line="290"/>
+        <location filename="../../DialogLanguageModes.cpp" line="297"/>
         <source>Can&apos;t read default calltips file(s):
   &quot;%1&quot;
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogLanguageModes.cpp" line="307"/>
-        <location filename="../../DialogLanguageModes.cpp" line="322"/>
+        <location filename="../../DialogLanguageModes.cpp" line="314"/>
+        <location filename="../../DialogLanguageModes.cpp" line="329"/>
         <source>Warning</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogLanguageModes.cpp" line="307"/>
+        <location filename="../../DialogLanguageModes.cpp" line="314"/>
         <source>Can&apos;t read integer value &quot;%1&quot; in tab spacing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogLanguageModes.cpp" line="322"/>
+        <location filename="../../DialogLanguageModes.cpp" line="329"/>
         <source>Can&apos;t read integer value &quot;%1&quot; in emulated tab spacing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogLanguageModes.cpp" line="387"/>
+        <location filename="../../DialogLanguageModes.cpp" line="394"/>
         <source>%1:%2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1:%2</translation>
     </message>
     <message>
-        <location filename="../../DialogLanguageModes.cpp" line="536"/>
+        <location filename="../../DialogLanguageModes.cpp" line="543"/>
         <source>New Item</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogLanguageModes.cpp" line="637"/>
+        <location filename="../../DialogLanguageModes.cpp" line="644"/>
         <source>Patterns exist</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogLanguageModes.cpp" line="638"/>
+        <location filename="../../DialogLanguageModes.cpp" line="645"/>
         <source>This language mode has syntax highlighting patterns defined. Please delete the patterns first, in Preferences -&gt; Default Settings -&gt; Syntax Highlighting, before proceeding here.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogLanguageModes.cpp" line="645"/>
+        <location filename="../../DialogLanguageModes.cpp" line="652"/>
         <source>Smart Indent Macros exist</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogLanguageModes.cpp" line="646"/>
+        <location filename="../../DialogLanguageModes.cpp" line="653"/>
         <source>This language mode has smart indent macros defined. Please delete the macros first, in Preferences -&gt; Default Settings -&gt; Auto Indent -&gt; Program Smart Indent, before proceeding here.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1096,8 +1080,8 @@ Select &quot;New&quot; to add a new command to the menu.</source>
     </message>
     <message>
         <location filename="../../DialogMacros.ui" line="116"/>
-        <location filename="../../DialogMacros.cpp" line="324"/>
         <location filename="../../DialogMacros.cpp" line="332"/>
+        <location filename="../../DialogMacros.cpp" line="340"/>
         <source>Menu Entry</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1148,88 +1132,63 @@ Replay Macro</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogMacros.cpp" line="25"/>
-        <source>document-new</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../DialogMacros.cpp" line="26"/>
-        <source>edit-delete</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../DialogMacros.cpp" line="27"/>
-        <source>edit-copy</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../DialogMacros.cpp" line="28"/>
-        <source>go-up</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../DialogMacros.cpp" line="29"/>
-        <source>go-down</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../DialogMacros.cpp" line="109"/>
+        <location filename="../../DialogMacros.cpp" line="117"/>
         <source>New Item</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogMacros.cpp" line="214"/>
+        <location filename="../../DialogMacros.cpp" line="222"/>
         <source>Discard Entry</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogMacros.cpp" line="216"/>
+        <location filename="../../DialogMacros.cpp" line="224"/>
         <source>Discard incomplete entry for current menu item?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogMacros.cpp" line="217"/>
+        <location filename="../../DialogMacros.cpp" line="225"/>
         <source>Keep</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogMacros.cpp" line="267"/>
+        <location filename="../../DialogMacros.cpp" line="275"/>
         <source>Macro</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogMacros.cpp" line="268"/>
+        <location filename="../../DialogMacros.cpp" line="276"/>
         <source>Macro compiled without error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogMacros.cpp" line="324"/>
+        <location filename="../../DialogMacros.cpp" line="332"/>
         <source>Please specify a name for the menu item</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogMacros.cpp" line="332"/>
+        <location filename="../../DialogMacros.cpp" line="340"/>
         <source>Menu item names may not contain colon (:) characters</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogMacros.cpp" line="340"/>
+        <location filename="../../DialogMacros.cpp" line="348"/>
         <source>Command to Execute</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogMacros.cpp" line="340"/>
+        <location filename="../../DialogMacros.cpp" line="348"/>
         <source>Please specify macro command(s) to execute</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogMacros.cpp" line="375"/>
-        <location filename="../../DialogMacros.cpp" line="386"/>
+        <location filename="../../DialogMacros.cpp" line="383"/>
+        <location filename="../../DialogMacros.cpp" line="394"/>
         <source>macro</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogMacros.cpp" line="386"/>
+        <location filename="../../DialogMacros.cpp" line="394"/>
         <source>syntax error</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1239,28 +1198,28 @@ Replay Macro</source>
     <message>
         <location filename="../../DialogMoveDocument.ui" line="14"/>
         <source>Move Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Přesunout dokument</translation>
     </message>
     <message>
         <location filename="../../DialogMoveDocument.ui" line="20"/>
         <location filename="../../DialogMoveDocument.cpp" line="35"/>
         <source>Move %1 into window of</source>
-        <translation type="unfinished"></translation>
+        <translation>Přesunout %1 do okna</translation>
     </message>
     <message>
         <location filename="../../DialogMoveDocument.ui" line="30"/>
         <source>Move all documents in this window</source>
-        <translation type="unfinished"></translation>
+        <translation>Přesunout všechny dokumenty v tomto okně</translation>
     </message>
     <message>
         <location filename="../../DialogMoveDocument.ui" line="39"/>
         <source>Move</source>
-        <translation type="unfinished"></translation>
+        <translation>Přesunout</translation>
     </message>
     <message>
         <location filename="../../DialogMoveDocument.ui" line="66"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Zrušit</translation>
     </message>
 </context>
 <context>
@@ -1298,45 +1257,45 @@ Replay Macro</source>
     <message>
         <location filename="../../DialogMultiReplace.ui" line="76"/>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Zrušit</translation>
     </message>
     <message>
-        <location filename="../../DialogMultiReplace.cpp" line="36"/>
+        <location filename="../../DialogMultiReplace.cpp" line="64"/>
         <source>No Files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogMultiReplace.cpp" line="36"/>
+        <location filename="../../DialogMultiReplace.cpp" line="64"/>
         <source>No files selected!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogMultiReplace.cpp" line="48"/>
+        <location filename="../../DialogMultiReplace.cpp" line="76"/>
         <source>Multi-File Replacement</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogMultiReplace.cpp" line="49"/>
+        <location filename="../../DialogMultiReplace.cpp" line="77"/>
         <source>Multi-file replacements are difficult to undo. Proceed with the replacement?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogMultiReplace.cpp" line="110"/>
+        <location filename="../../DialogMultiReplace.cpp" line="138"/>
         <source>Read-only Files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogMultiReplace.cpp" line="110"/>
+        <location filename="../../DialogMultiReplace.cpp" line="138"/>
         <source>All selected files have become read-only.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogMultiReplace.cpp" line="112"/>
+        <location filename="../../DialogMultiReplace.cpp" line="140"/>
         <source>String not found</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogMultiReplace.cpp" line="112"/>
+        <location filename="../../DialogMultiReplace.cpp" line="140"/>
         <source>String was not found</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1346,7 +1305,7 @@ Replay Macro</source>
     <message>
         <location filename="../../DialogOutput.ui" line="14"/>
         <source>Output From Command</source>
-        <translation type="unfinished"></translation>
+        <translation>Výstup příkazu</translation>
     </message>
 </context>
 <context>
@@ -1377,48 +1336,72 @@ Replay Macro</source>
         <translation>&amp;Zrušit</translation>
     </message>
     <message>
-        <location filename="../../DialogPrint.cpp" line="26"/>
+        <location filename="../../DialogPrint.cpp" line="27"/>
         <source>Print to File (PDF)</source>
         <translation>Tisk do souboru (PDF)</translation>
     </message>
     <message>
-        <location filename="../../DialogPrint.cpp" line="66"/>
+        <location filename="../../DialogPrint.cpp" line="75"/>
         <source>Print to File</source>
         <translation>Tisk do souboru</translation>
     </message>
     <message>
-        <location filename="../../DialogPrint.cpp" line="71"/>
+        <location filename="../../DialogPrint.cpp" line="81"/>
         <source>*.pdf</source>
         <translation>*.pdf</translation>
     </message>
     <message>
-        <location filename="../../DialogPrint.cpp" line="86"/>
-        <location filename="../../DialogPrint.cpp" line="93"/>
-        <location filename="../../DialogPrint.cpp" line="108"/>
+        <location filename="../../DialogPrint.cpp" line="96"/>
+        <location filename="../../DialogPrint.cpp" line="103"/>
+        <location filename="../../DialogPrint.cpp" line="118"/>
         <source>Error Printing to File</source>
         <translation>Tisk do souboru se nezdařil</translation>
     </message>
     <message>
-        <location filename="../../DialogPrint.cpp" line="87"/>
+        <location filename="../../DialogPrint.cpp" line="97"/>
         <source>Failed to print to file, is it writable?</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se vytisknout do souboru, je zapisovatelný?</translation>
     </message>
     <message>
-        <location filename="../../DialogPrint.cpp" line="94"/>
+        <location filename="../../DialogPrint.cpp" line="104"/>
         <source>No file was specified, please provide a filename to print to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nebyl zadán žádný soubor, zadejte název souboru, do kterého chcete tisknout.</translation>
     </message>
     <message>
-        <location filename="../../DialogPrint.cpp" line="109"/>
+        <location filename="../../DialogPrint.cpp" line="119"/>
         <source>An error occured while printing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Při tisku došlo k chybě.</translation>
+    </message>
+</context>
+<context>
+    <name>DialogPrompt</name>
+    <message>
+        <location filename="../../DialogPrompt.ui" line="20"/>
+        <source>Nedit-ng</source>
+        <translation>Nedit-ng</translation>
+    </message>
+</context>
+<context>
+    <name>DialogPromptList</name>
+    <message>
+        <location filename="../../DialogPromptList.ui" line="20"/>
+        <source>Nedit-ng</source>
+        <translation>Nedit-ng</translation>
+    </message>
+</context>
+<context>
+    <name>DialogPromptString</name>
+    <message>
+        <location filename="../../DialogPromptString.ui" line="20"/>
+        <source>Nedit-ng</source>
+        <translation>Nedit-ng</translation>
     </message>
 </context>
 <context>
     <name>DialogRepeat</name>
     <message>
         <location filename="../../DialogRepeat.ui" line="14"/>
-        <location filename="../../DialogRepeat.cpp" line="45"/>
+        <location filename="../../DialogRepeat.cpp" line="51"/>
         <source>Repeat Macro</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1448,28 +1431,28 @@ Replay Macro</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogRepeat.cpp" line="26"/>
+        <location filename="../../DialogRepeat.cpp" line="32"/>
         <source>Last &amp;Command (%1)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogRepeat.cpp" line="45"/>
+        <location filename="../../DialogRepeat.cpp" line="51"/>
         <source>No selection in window to repeat within</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogRepeat.cpp" line="55"/>
-        <location filename="../../DialogRepeat.cpp" line="62"/>
+        <location filename="../../DialogRepeat.cpp" line="61"/>
+        <location filename="../../DialogRepeat.cpp" line="68"/>
         <source>Warning</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogRepeat.cpp" line="55"/>
+        <location filename="../../DialogRepeat.cpp" line="61"/>
         <source>Please supply a value for number of times</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogRepeat.cpp" line="62"/>
+        <location filename="../../DialogRepeat.cpp" line="68"/>
         <source>Can&apos;t read integer value &quot;%1&quot; in number of times</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1578,28 +1561,28 @@ Replay Macro</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogReplace.cpp" line="192"/>
+        <location filename="../../DialogReplace.cpp" line="211"/>
         <source>Find/Replace (in %1)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogReplace.cpp" line="194"/>
+        <location filename="../../DialogReplace.cpp" line="213"/>
         <source>Find/Replace</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogReplace.cpp" line="571"/>
+        <location filename="../../DialogReplace.cpp" line="590"/>
         <source>Search String</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogReplace.cpp" line="571"/>
+        <location filename="../../DialogReplace.cpp" line="590"/>
         <source>Please respecify the search string:
 %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogReplace.cpp" line="613"/>
+        <location filename="../../DialogReplace.cpp" line="632"/>
         <source>Replace (in %1)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1640,8 +1623,8 @@ Select &quot;New&quot; to add a new command to the menu.</source>
     </message>
     <message>
         <location filename="../../DialogShellMenu.ui" line="116"/>
-        <location filename="../../DialogShellMenu.cpp" line="313"/>
         <location filename="../../DialogShellMenu.cpp" line="320"/>
+        <location filename="../../DialogShellMenu.cpp" line="327"/>
         <source>Menu Entry</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1726,67 +1709,42 @@ Select &quot;New&quot; to add a new command to the menu.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogShellMenu.cpp" line="20"/>
-        <source>document-new</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../DialogShellMenu.cpp" line="21"/>
-        <source>edit-delete</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../DialogShellMenu.cpp" line="22"/>
-        <source>edit-copy</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../DialogShellMenu.cpp" line="23"/>
-        <source>go-up</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../DialogShellMenu.cpp" line="24"/>
-        <source>go-down</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../DialogShellMenu.cpp" line="103"/>
+        <location filename="../../DialogShellMenu.cpp" line="110"/>
         <source>New Item</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogShellMenu.cpp" line="195"/>
+        <location filename="../../DialogShellMenu.cpp" line="202"/>
         <source>Discard Entry</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogShellMenu.cpp" line="197"/>
+        <location filename="../../DialogShellMenu.cpp" line="204"/>
         <source>Discard incomplete entry for current menu item?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogShellMenu.cpp" line="198"/>
+        <location filename="../../DialogShellMenu.cpp" line="205"/>
         <source>Keep</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogShellMenu.cpp" line="313"/>
+        <location filename="../../DialogShellMenu.cpp" line="320"/>
         <source>Please specify a name for the menu item</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogShellMenu.cpp" line="320"/>
+        <location filename="../../DialogShellMenu.cpp" line="327"/>
         <source>Menu item names may not contain colon (:) characters</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogShellMenu.cpp" line="328"/>
+        <location filename="../../DialogShellMenu.cpp" line="335"/>
         <source>Command to Execute</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogShellMenu.cpp" line="328"/>
+        <location filename="../../DialogShellMenu.cpp" line="335"/>
         <source>Please specify macro command(s) to execute</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1874,63 +1832,63 @@ Select &quot;New&quot; to add a new command to the menu.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogSmartIndent.cpp" line="113"/>
+        <location filename="../../DialogSmartIndent.cpp" line="128"/>
         <source>Macro compiled</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogSmartIndent.cpp" line="114"/>
+        <location filename="../../DialogSmartIndent.cpp" line="129"/>
         <source>Macros compiled without error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogSmartIndent.cpp" line="125"/>
+        <location filename="../../DialogSmartIndent.cpp" line="140"/>
         <source>Delete Macros</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogSmartIndent.cpp" line="126"/>
+        <location filename="../../DialogSmartIndent.cpp" line="141"/>
         <source>Are you sure you want to delete smart indent macros for language mode %1?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogSmartIndent.cpp" line="154"/>
-        <location filename="../../DialogSmartIndent.cpp" line="294"/>
+        <location filename="../../DialogSmartIndent.cpp" line="169"/>
+        <location filename="../../DialogSmartIndent.cpp" line="309"/>
         <source>Smart Indent</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogSmartIndent.cpp" line="155"/>
+        <location filename="../../DialogSmartIndent.cpp" line="170"/>
         <source>There are no default indent macros for language mode %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogSmartIndent.cpp" line="161"/>
+        <location filename="../../DialogSmartIndent.cpp" line="176"/>
         <source>Discard Changes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogSmartIndent.cpp" line="162"/>
+        <location filename="../../DialogSmartIndent.cpp" line="177"/>
         <source>Are you sure you want to discard all changes to smart indent macros for language mode %1?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogSmartIndent.cpp" line="282"/>
+        <location filename="../../DialogSmartIndent.cpp" line="297"/>
         <source>initialization macro</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogSmartIndent.cpp" line="294"/>
+        <location filename="../../DialogSmartIndent.cpp" line="309"/>
         <source>Newline macro required</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogSmartIndent.cpp" line="304"/>
+        <location filename="../../DialogSmartIndent.cpp" line="319"/>
         <source>newline macro</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogSmartIndent.cpp" line="322"/>
+        <location filename="../../DialogSmartIndent.cpp" line="337"/>
         <source>modify macro</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1973,32 +1931,32 @@ Select &quot;New&quot; to add a new command to the menu.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogSmartIndentCommon.cpp" line="46"/>
+        <location filename="../../DialogSmartIndentCommon.cpp" line="58"/>
         <source>Macro compiled</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogSmartIndentCommon.cpp" line="46"/>
+        <location filename="../../DialogSmartIndentCommon.cpp" line="58"/>
         <source>Macros compiled without error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogSmartIndentCommon.cpp" line="56"/>
+        <location filename="../../DialogSmartIndentCommon.cpp" line="68"/>
         <source>Discard Changes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogSmartIndentCommon.cpp" line="57"/>
+        <location filename="../../DialogSmartIndentCommon.cpp" line="69"/>
         <source>Are you sure you want to discard all changes to common smart indent macros</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogSmartIndentCommon.cpp" line="82"/>
+        <location filename="../../DialogSmartIndentCommon.cpp" line="94"/>
         <source>macros</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogSmartIndentCommon.cpp" line="115"/>
+        <location filename="../../DialogSmartIndentCommon.cpp" line="127"/>
         <source>common macros</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2012,7 +1970,7 @@ Select &quot;New&quot; to add a new command to the menu.</source>
     </message>
     <message>
         <location filename="../../DialogSyntaxPatterns.ui" line="35"/>
-        <location filename="../../DialogSyntaxPatterns.cpp" line="123"/>
+        <location filename="../../DialogSyntaxPatterns.cpp" line="135"/>
         <source>Language Mode</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2049,7 +2007,7 @@ Select &quot;New&quot; to add a new command to the menu.</source>
     </message>
     <message>
         <location filename="../../DialogSyntaxPatterns.ui" line="157"/>
-        <location filename="../../DialogSyntaxPatterns.cpp" line="864"/>
+        <location filename="../../DialogSyntaxPatterns.cpp" line="876"/>
         <source>Pattern Name</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2110,13 +2068,13 @@ Select &quot;New&quot; to add a new command to the menu.</source>
     </message>
     <message>
         <location filename="../../DialogSyntaxPatterns.ui" line="286"/>
-        <location filename="../../DialogSyntaxPatterns.cpp" line="223"/>
+        <location filename="../../DialogSyntaxPatterns.cpp" line="235"/>
         <source>Regular Expression to Match</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../DialogSyntaxPatterns.ui" line="305"/>
-        <location filename="../../DialogSyntaxPatterns.cpp" line="218"/>
+        <location filename="../../DialogSyntaxPatterns.cpp" line="230"/>
         <source>Ending Regular Expression</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2176,191 +2134,166 @@ Select &quot;New&quot; to add a new command to the menu.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogSyntaxPatterns.cpp" line="28"/>
-        <source>document-new</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../DialogSyntaxPatterns.cpp" line="29"/>
-        <source>edit-delete</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../DialogSyntaxPatterns.cpp" line="30"/>
-        <source>edit-copy</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../DialogSyntaxPatterns.cpp" line="31"/>
-        <source>go-up</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../DialogSyntaxPatterns.cpp" line="32"/>
-        <source>go-down</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../DialogSyntaxPatterns.cpp" line="103"/>
+        <location filename="../../DialogSyntaxPatterns.cpp" line="115"/>
         <source>Incomplete Language Mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogSyntaxPatterns.cpp" line="105"/>
+        <location filename="../../DialogSyntaxPatterns.cpp" line="117"/>
         <source>Discard incomplete entry for current language mode?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogSyntaxPatterns.cpp" line="106"/>
-        <location filename="../../DialogSyntaxPatterns.cpp" line="582"/>
+        <location filename="../../DialogSyntaxPatterns.cpp" line="118"/>
+        <location filename="../../DialogSyntaxPatterns.cpp" line="594"/>
         <source>Keep</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogSyntaxPatterns.cpp" line="124"/>
+        <location filename="../../DialogSyntaxPatterns.cpp" line="136"/>
         <source>Apply changes for language mode %1?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogSyntaxPatterns.cpp" line="211"/>
+        <location filename="../../DialogSyntaxPatterns.cpp" line="223"/>
         <source>Sub-expressions to Highlight in Parent&apos;s Starting Regular Expression (\1, &amp;, etc.)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogSyntaxPatterns.cpp" line="212"/>
+        <location filename="../../DialogSyntaxPatterns.cpp" line="224"/>
         <source>Sub-expressions to Highlight in Parent Pattern&apos;s Ending Regular Expression</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogSyntaxPatterns.cpp" line="227"/>
+        <location filename="../../DialogSyntaxPatterns.cpp" line="239"/>
         <source>Starting Regular Expression</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogSyntaxPatterns.cpp" line="319"/>
+        <location filename="../../DialogSyntaxPatterns.cpp" line="331"/>
         <source>New Item</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogSyntaxPatterns.cpp" line="416"/>
+        <location filename="../../DialogSyntaxPatterns.cpp" line="428"/>
         <source>Pattern compiled</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogSyntaxPatterns.cpp" line="417"/>
+        <location filename="../../DialogSyntaxPatterns.cpp" line="429"/>
         <source>Patterns compiled without error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogSyntaxPatterns.cpp" line="430"/>
+        <location filename="../../DialogSyntaxPatterns.cpp" line="442"/>
         <source>Delete Pattern</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogSyntaxPatterns.cpp" line="431"/>
+        <location filename="../../DialogSyntaxPatterns.cpp" line="443"/>
         <source>Are you sure you want to delete syntax highlighting patterns for language mode %1?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogSyntaxPatterns.cpp" line="474"/>
+        <location filename="../../DialogSyntaxPatterns.cpp" line="486"/>
         <source>No Default Pattern</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogSyntaxPatterns.cpp" line="475"/>
+        <location filename="../../DialogSyntaxPatterns.cpp" line="487"/>
         <source>There is no default pattern set for language mode %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogSyntaxPatterns.cpp" line="481"/>
+        <location filename="../../DialogSyntaxPatterns.cpp" line="493"/>
         <source>Discard Changes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogSyntaxPatterns.cpp" line="482"/>
+        <location filename="../../DialogSyntaxPatterns.cpp" line="494"/>
         <source>Are you sure you want to discard all changes to syntax highlighting patterns for language mode %1?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogSyntaxPatterns.cpp" line="579"/>
+        <location filename="../../DialogSyntaxPatterns.cpp" line="591"/>
         <source>Discard Entry</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogSyntaxPatterns.cpp" line="581"/>
+        <location filename="../../DialogSyntaxPatterns.cpp" line="593"/>
         <source>Discard incomplete entry for current menu item?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogSyntaxPatterns.cpp" line="795"/>
-        <location filename="../../DialogSyntaxPatterns.cpp" line="801"/>
-        <location filename="../../DialogSyntaxPatterns.cpp" line="808"/>
+        <location filename="../../DialogSyntaxPatterns.cpp" line="807"/>
         <location filename="../../DialogSyntaxPatterns.cpp" line="813"/>
+        <location filename="../../DialogSyntaxPatterns.cpp" line="820"/>
+        <location filename="../../DialogSyntaxPatterns.cpp" line="825"/>
         <source>Warning</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogSyntaxPatterns.cpp" line="795"/>
+        <location filename="../../DialogSyntaxPatterns.cpp" line="807"/>
         <source>Please supply a value for context lines</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogSyntaxPatterns.cpp" line="801"/>
+        <location filename="../../DialogSyntaxPatterns.cpp" line="813"/>
         <source>Can&apos;t read integer value &quot;%1&quot; in context lines</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogSyntaxPatterns.cpp" line="808"/>
+        <location filename="../../DialogSyntaxPatterns.cpp" line="820"/>
         <source>Please supply a value for context chars</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogSyntaxPatterns.cpp" line="813"/>
+        <location filename="../../DialogSyntaxPatterns.cpp" line="825"/>
         <source>Can&apos;t read integer value &quot;%1&quot; in context chars</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogSyntaxPatterns.cpp" line="864"/>
+        <location filename="../../DialogSyntaxPatterns.cpp" line="876"/>
         <source>Please specify a name for the pattern</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogSyntaxPatterns.cpp" line="873"/>
+        <location filename="../../DialogSyntaxPatterns.cpp" line="885"/>
         <source>Matching Regex</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogSyntaxPatterns.cpp" line="873"/>
+        <location filename="../../DialogSyntaxPatterns.cpp" line="885"/>
         <source>Please specify a regular expression to match</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogSyntaxPatterns.cpp" line="902"/>
+        <location filename="../../DialogSyntaxPatterns.cpp" line="914"/>
         <source>Pattern Error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogSyntaxPatterns.cpp" line="903"/>
+        <location filename="../../DialogSyntaxPatterns.cpp" line="915"/>
         <source>The expression field in patterns which specify highlighting for a parent, must contain only sub-expression references in regular expression replacement form (&amp;\1\2 etc.).  See Help -&gt; Regular Expressions and Help -&gt; Syntax Highlighting for more information</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogSyntaxPatterns.cpp" line="914"/>
+        <location filename="../../DialogSyntaxPatterns.cpp" line="926"/>
         <source>Specify Parent Pattern</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogSyntaxPatterns.cpp" line="914"/>
+        <location filename="../../DialogSyntaxPatterns.cpp" line="926"/>
         <source>Please specify a parent pattern</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogSyntaxPatterns.cpp" line="932"/>
+        <location filename="../../DialogSyntaxPatterns.cpp" line="944"/>
         <source>Specify Regex</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogSyntaxPatterns.cpp" line="932"/>
+        <location filename="../../DialogSyntaxPatterns.cpp" line="944"/>
         <source>Please specify an ending regular expression</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2393,46 +2326,46 @@ Select &quot;New&quot; to add a new command to the menu.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogTabs.cpp" line="73"/>
-        <location filename="../../DialogTabs.cpp" line="79"/>
-        <location filename="../../DialogTabs.cpp" line="91"/>
-        <location filename="../../DialogTabs.cpp" line="97"/>
+        <location filename="../../DialogTabs.cpp" line="78"/>
+        <location filename="../../DialogTabs.cpp" line="84"/>
+        <location filename="../../DialogTabs.cpp" line="96"/>
+        <location filename="../../DialogTabs.cpp" line="102"/>
         <source>Warning</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogTabs.cpp" line="73"/>
+        <location filename="../../DialogTabs.cpp" line="78"/>
         <source>Please supply a value for tab spacing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogTabs.cpp" line="79"/>
+        <location filename="../../DialogTabs.cpp" line="84"/>
         <source>Can&apos;t read integer value &quot;%1&quot; in tab spacing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogTabs.cpp" line="84"/>
-        <location filename="../../DialogTabs.cpp" line="103"/>
+        <location filename="../../DialogTabs.cpp" line="89"/>
+        <location filename="../../DialogTabs.cpp" line="108"/>
         <source>Tab Spacing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogTabs.cpp" line="84"/>
+        <location filename="../../DialogTabs.cpp" line="89"/>
         <source>Tab spacing out of range</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogTabs.cpp" line="91"/>
+        <location filename="../../DialogTabs.cpp" line="96"/>
         <source>Please supply a value for emulated tab spacing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogTabs.cpp" line="97"/>
+        <location filename="../../DialogTabs.cpp" line="102"/>
         <source>Can&apos;t read integer value &quot;%1&quot; in emulated tab spacing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogTabs.cpp" line="103"/>
+        <location filename="../../DialogTabs.cpp" line="108"/>
         <source>Emulated tab spacing out of range</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2473,8 +2406,8 @@ Select &quot;New&quot; to add a new command to the menu.</source>
     </message>
     <message>
         <location filename="../../DialogWindowBackgroundMenu.ui" line="116"/>
-        <location filename="../../DialogWindowBackgroundMenu.cpp" line="315"/>
         <location filename="../../DialogWindowBackgroundMenu.cpp" line="323"/>
+        <location filename="../../DialogWindowBackgroundMenu.cpp" line="331"/>
         <source>Menu Entry</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2525,88 +2458,63 @@ Replay Macro</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogWindowBackgroundMenu.cpp" line="25"/>
-        <source>document-new</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../DialogWindowBackgroundMenu.cpp" line="26"/>
-        <source>edit-delete</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../DialogWindowBackgroundMenu.cpp" line="27"/>
-        <source>edit-copy</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../DialogWindowBackgroundMenu.cpp" line="28"/>
-        <source>go-up</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../DialogWindowBackgroundMenu.cpp" line="29"/>
-        <source>go-down</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../DialogWindowBackgroundMenu.cpp" line="64"/>
+        <location filename="../../DialogWindowBackgroundMenu.cpp" line="80"/>
         <source>New Item</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogWindowBackgroundMenu.cpp" line="214"/>
+        <location filename="../../DialogWindowBackgroundMenu.cpp" line="222"/>
         <source>Discard Entry</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogWindowBackgroundMenu.cpp" line="216"/>
+        <location filename="../../DialogWindowBackgroundMenu.cpp" line="224"/>
         <source>Discard incomplete entry for current menu item?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogWindowBackgroundMenu.cpp" line="217"/>
+        <location filename="../../DialogWindowBackgroundMenu.cpp" line="225"/>
         <source>Keep</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogWindowBackgroundMenu.cpp" line="267"/>
+        <location filename="../../DialogWindowBackgroundMenu.cpp" line="275"/>
         <source>Macro</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogWindowBackgroundMenu.cpp" line="268"/>
+        <location filename="../../DialogWindowBackgroundMenu.cpp" line="276"/>
         <source>Macro compiled without error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogWindowBackgroundMenu.cpp" line="315"/>
+        <location filename="../../DialogWindowBackgroundMenu.cpp" line="323"/>
         <source>Please specify a name for the menu item</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogWindowBackgroundMenu.cpp" line="323"/>
+        <location filename="../../DialogWindowBackgroundMenu.cpp" line="331"/>
         <source>Menu item names may not contain colon (:) characters</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogWindowBackgroundMenu.cpp" line="331"/>
+        <location filename="../../DialogWindowBackgroundMenu.cpp" line="339"/>
         <source>Command to Execute</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogWindowBackgroundMenu.cpp" line="331"/>
+        <location filename="../../DialogWindowBackgroundMenu.cpp" line="339"/>
         <source>Please specify macro command(s) to execute</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogWindowBackgroundMenu.cpp" line="366"/>
-        <location filename="../../DialogWindowBackgroundMenu.cpp" line="377"/>
+        <location filename="../../DialogWindowBackgroundMenu.cpp" line="374"/>
+        <location filename="../../DialogWindowBackgroundMenu.cpp" line="385"/>
         <source>macro</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogWindowBackgroundMenu.cpp" line="377"/>
+        <location filename="../../DialogWindowBackgroundMenu.cpp" line="385"/>
         <source>syntax error</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2629,30 +2537,30 @@ Replay Macro</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogWindowSize.cpp" line="22"/>
-        <location filename="../../DialogWindowSize.cpp" line="28"/>
+        <location filename="../../DialogWindowSize.cpp" line="27"/>
         <location filename="../../DialogWindowSize.cpp" line="33"/>
-        <location filename="../../DialogWindowSize.cpp" line="39"/>
+        <location filename="../../DialogWindowSize.cpp" line="38"/>
+        <location filename="../../DialogWindowSize.cpp" line="44"/>
         <source>Warning</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogWindowSize.cpp" line="22"/>
+        <location filename="../../DialogWindowSize.cpp" line="27"/>
         <source>Please supply a value for number of rows</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogWindowSize.cpp" line="28"/>
+        <location filename="../../DialogWindowSize.cpp" line="33"/>
         <source>Can&apos;t read integer value &quot;%1&quot; in number of rows</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogWindowSize.cpp" line="33"/>
+        <location filename="../../DialogWindowSize.cpp" line="38"/>
         <source>Please supply a value for number of columns</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogWindowSize.cpp" line="39"/>
+        <location filename="../../DialogWindowSize.cpp" line="44"/>
         <source>Can&apos;t read integer value &quot;%1&quot; in number of columns</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2770,99 +2678,99 @@ Replay Macro</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogWindowTitle.cpp" line="74"/>
+        <location filename="../../DialogWindowTitle.cpp" line="79"/>
         <source>viewtag</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogWindowTitle.cpp" line="75"/>
+        <location filename="../../DialogWindowTitle.cpp" line="80"/>
         <source>servername</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogWindowTitle.cpp" line="145"/>
+        <location filename="../../DialogWindowTitle.cpp" line="150"/>
         <source>/a/very/long/path/used/as/example/</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogWindowTitle.cpp" line="376"/>
+        <location filename="../../DialogWindowTitle.cpp" line="381"/>
         <source> %%1d </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogWindowTitle.cpp" line="378"/>
-        <location filename="../../DialogWindowTitle.cpp" line="381"/>
+        <location filename="../../DialogWindowTitle.cpp" line="383"/>
+        <location filename="../../DialogWindowTitle.cpp" line="386"/>
         <source> %d </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogWindowTitle.cpp" line="387"/>
-        <location filename="../../DialogWindowTitle.cpp" line="530"/>
+        <location filename="../../DialogWindowTitle.cpp" line="392"/>
+        <location filename="../../DialogWindowTitle.cpp" line="535"/>
         <source>%%1d</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogWindowTitle.cpp" line="487"/>
+        <location filename="../../DialogWindowTitle.cpp" line="492"/>
         <source>[\{\(\[\&lt;]?%1[\}\)\]\&gt;]?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogWindowTitle.cpp" line="532"/>
+        <location filename="../../DialogWindowTitle.cpp" line="537"/>
         <source>%d</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogWindowTitle.cpp" line="650"/>
+        <location filename="../../DialogWindowTitle.cpp" line="655"/>
         <source>read only, modified</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogWindowTitle.cpp" line="652"/>
+        <location filename="../../DialogWindowTitle.cpp" line="657"/>
         <source>read only</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogWindowTitle.cpp" line="654"/>
+        <location filename="../../DialogWindowTitle.cpp" line="659"/>
         <source>locked, modified</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogWindowTitle.cpp" line="656"/>
+        <location filename="../../DialogWindowTitle.cpp" line="661"/>
         <source>locked</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogWindowTitle.cpp" line="658"/>
+        <location filename="../../DialogWindowTitle.cpp" line="663"/>
         <source>modified</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogWindowTitle.cpp" line="676"/>
+        <location filename="../../DialogWindowTitle.cpp" line="681"/>
         <source>RO*</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogWindowTitle.cpp" line="678"/>
+        <location filename="../../DialogWindowTitle.cpp" line="683"/>
         <source>RO</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogWindowTitle.cpp" line="680"/>
+        <location filename="../../DialogWindowTitle.cpp" line="685"/>
         <source>LO*</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogWindowTitle.cpp" line="682"/>
+        <location filename="../../DialogWindowTitle.cpp" line="687"/>
         <source>LO</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogWindowTitle.cpp" line="684"/>
+        <location filename="../../DialogWindowTitle.cpp" line="689"/>
         <source>*</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DialogWindowTitle.cpp" line="701"/>
+        <location filename="../../DialogWindowTitle.cpp" line="706"/>
         <source>&lt;empty&gt;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2876,7 +2784,7 @@ Replay Macro</source>
     </message>
     <message>
         <location filename="../../DialogWrapMargin.ui" line="22"/>
-        <source>&amp;Wrap and Fill at widget of window</source>
+        <source>&amp;Wrap and Fill at width of window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2890,7 +2798,7 @@ Replay Macro</source>
     <message>
         <location filename="../../DocumentModel.cpp" line="77"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Jméno</translation>
     </message>
 </context>
 <context>
@@ -2901,157 +2809,157 @@ Replay Macro</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="403"/>
-        <location filename="../../DocumentWidget.cpp" line="675"/>
-        <location filename="../../DocumentWidget.cpp" line="677"/>
-        <location filename="../../DocumentWidget.cpp" line="696"/>
-        <location filename="../../DocumentWidget.cpp" line="1326"/>
-        <location filename="../../DocumentWidget.cpp" line="2001"/>
-        <location filename="../../DocumentWidget.cpp" line="6903"/>
+        <location filename="../../DocumentWidget.cpp" line="402"/>
+        <location filename="../../DocumentWidget.cpp" line="674"/>
+        <location filename="../../DocumentWidget.cpp" line="676"/>
+        <location filename="../../DocumentWidget.cpp" line="695"/>
+        <location filename="../../DocumentWidget.cpp" line="1325"/>
+        <location filename="../../DocumentWidget.cpp" line="2000"/>
+        <location filename="../../DocumentWidget.cpp" line="6902"/>
         <source>%1%2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1%2</translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="476"/>
+        <location filename="../../DocumentWidget.cpp" line="475"/>
         <source>TextArea_Clone_%1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="555"/>
+        <location filename="../../DocumentWidget.cpp" line="554"/>
         <source>TextArea_%1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="696"/>
-        <location filename="../../DocumentWidget.cpp" line="698"/>
-        <location filename="../../DocumentWidget.cpp" line="1326"/>
+        <location filename="../../DocumentWidget.cpp" line="695"/>
+        <location filename="../../DocumentWidget.cpp" line="697"/>
+        <location filename="../../DocumentWidget.cpp" line="1325"/>
         <source>*</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="698"/>
+        <location filename="../../DocumentWidget.cpp" line="697"/>
         <source>%2%1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%2%1</translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="1329"/>
+        <location filename="../../DocumentWidget.cpp" line="1328"/>
         <source> - %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="1808"/>
+        <location filename="../../DocumentWidget.cpp" line="1807"/>
         <source>%1~%2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="1810"/>
+        <location filename="../../DocumentWidget.cpp" line="1809"/>
         <source>~%1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="1883"/>
+        <location filename="../../DocumentWidget.cpp" line="1882"/>
         <source>File not Found</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="1884"/>
+        <location filename="../../DocumentWidget.cpp" line="1883"/>
         <source>File &apos;%1&apos; (or directory in its path) no longer exists.
 Another program may have deleted or moved it.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="1895"/>
+        <location filename="../../DocumentWidget.cpp" line="1894"/>
         <source>Permission Denied</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="1896"/>
+        <location filename="../../DocumentWidget.cpp" line="1895"/>
         <source>You no longer have access to file &apos;%1&apos;.
 Another program may have changed the permissions of one of its parent directories.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="1907"/>
+        <location filename="../../DocumentWidget.cpp" line="1906"/>
         <source>File not Accessible</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="1908"/>
+        <location filename="../../DocumentWidget.cpp" line="1907"/>
         <source>Error while checking the status of file &apos;%1&apos;:
     &apos;%2&apos;
 Please make sure that no data is lost before closing this window.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="1970"/>
+        <location filename="../../DocumentWidget.cpp" line="1969"/>
         <source>File modified externally</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="1971"/>
+        <location filename="../../DocumentWidget.cpp" line="1970"/>
         <source>Reload</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="1977"/>
+        <location filename="../../DocumentWidget.cpp" line="1976"/>
         <source>%1 has been modified by another program.  Reload?
 
 WARNING: Reloading will discard changes made in this editing session!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="1979"/>
+        <location filename="../../DocumentWidget.cpp" line="1978"/>
         <source>%1 has been modified by another program.  Reload?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="2068"/>
+        <location filename="../../DocumentWidget.cpp" line="2067"/>
         <source>Comparing externally modified %1 ...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="2140"/>
+        <location filename="../../DocumentWidget.cpp" line="2139"/>
         <source>Error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="2141"/>
+        <location filename="../../DocumentWidget.cpp" line="2140"/>
         <source>Window &apos;%1&apos; was never saved, can&apos;t re-read</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="2223"/>
-        <location filename="../../DocumentWidget.cpp" line="2660"/>
+        <location filename="../../DocumentWidget.cpp" line="2222"/>
+        <location filename="../../DocumentWidget.cpp" line="2659"/>
         <source>Error writing Backup</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="2224"/>
+        <location filename="../../DocumentWidget.cpp" line="2223"/>
         <source>Unable to save backup for %1:
 %2
 Automatic backup is now off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="2251"/>
+        <location filename="../../DocumentWidget.cpp" line="2250"/>
         <source>Error saving Backup</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="2252"/>
+        <location filename="../../DocumentWidget.cpp" line="2251"/>
         <source>Error while saving backup for %1:
 %2
 Automatic backup is now off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="2287"/>
-        <location filename="../../DocumentWidget.cpp" line="2738"/>
+        <location filename="../../DocumentWidget.cpp" line="2286"/>
+        <location filename="../../DocumentWidget.cpp" line="2737"/>
         <source>Save File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="2289"/>
+        <location filename="../../DocumentWidget.cpp" line="2288"/>
         <source>%1 has been modified by another program.
 
 Continuing this operation will overwrite any external
@@ -3064,30 +2972,30 @@ or Revert to Saved to revert to the modified version.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="2297"/>
-        <location filename="../../DocumentWidget.cpp" line="2666"/>
+        <location filename="../../DocumentWidget.cpp" line="2296"/>
+        <location filename="../../DocumentWidget.cpp" line="2665"/>
         <source>Continue</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="2333"/>
+        <location filename="../../DocumentWidget.cpp" line="2332"/>
         <source>Writing Read-only File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="2334"/>
+        <location filename="../../DocumentWidget.cpp" line="2333"/>
         <source>File &apos;%1&apos; is marked as read-only.
 Do you want to save anyway?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="2358"/>
-        <location filename="../../DocumentWidget.cpp" line="2392"/>
+        <location filename="../../DocumentWidget.cpp" line="2357"/>
+        <location filename="../../DocumentWidget.cpp" line="2391"/>
         <source>Error saving File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="2360"/>
+        <location filename="../../DocumentWidget.cpp" line="2359"/>
         <source>Unable to save %1:
 %2
 
@@ -3095,237 +3003,237 @@ Save as a new file?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="2362"/>
+        <location filename="../../DocumentWidget.cpp" line="2361"/>
         <source>Save As...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="2392"/>
+        <location filename="../../DocumentWidget.cpp" line="2391"/>
         <source>%1 not saved:
 %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="2463"/>
+        <location filename="../../DocumentWidget.cpp" line="2462"/>
         <source>File open</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="2465"/>
+        <location filename="../../DocumentWidget.cpp" line="2464"/>
         <source>%1 is open in another NEdit window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="2466"/>
+        <location filename="../../DocumentWidget.cpp" line="2465"/>
         <source>Close Other Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="2589"/>
+        <location filename="../../DocumentWidget.cpp" line="2588"/>
         <source>%1.bck</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="2617"/>
+        <location filename="../../DocumentWidget.cpp" line="2616"/>
         <source>Error open backup file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="2628"/>
+        <location filename="../../DocumentWidget.cpp" line="2627"/>
         <source>fchmod() failed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="2642"/>
+        <location filename="../../DocumentWidget.cpp" line="2641"/>
         <source>read() error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="2662"/>
+        <location filename="../../DocumentWidget.cpp" line="2661"/>
         <source>Couldn&apos;t write .bck (last version) file.
 %1: %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="2664"/>
+        <location filename="../../DocumentWidget.cpp" line="2663"/>
         <source>Cancel Save</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="2665"/>
+        <location filename="../../DocumentWidget.cpp" line="2664"/>
         <source>Turn off Backups</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="2739"/>
+        <location filename="../../DocumentWidget.cpp" line="2738"/>
         <source>Save %1 before closing?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="2979"/>
-        <location filename="../../DocumentWidget.cpp" line="2981"/>
-        <location filename="../../DocumentWidget.cpp" line="2988"/>
-        <location filename="../../DocumentWidget.cpp" line="2990"/>
+        <location filename="../../DocumentWidget.cpp" line="2978"/>
+        <location filename="../../DocumentWidget.cpp" line="2980"/>
+        <location filename="../../DocumentWidget.cpp" line="2987"/>
+        <location filename="../../DocumentWidget.cpp" line="2989"/>
         <source>New File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="2980"/>
-        <location filename="../../DocumentWidget.cpp" line="2989"/>
+        <location filename="../../DocumentWidget.cpp" line="2979"/>
+        <location filename="../../DocumentWidget.cpp" line="2988"/>
         <source>Can&apos;t open %1:
 %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="2983"/>
+        <location filename="../../DocumentWidget.cpp" line="2982"/>
         <source>Exit NEdit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="3013"/>
+        <location filename="../../DocumentWidget.cpp" line="3012"/>
         <source>Error creating File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="3013"/>
+        <location filename="../../DocumentWidget.cpp" line="3012"/>
         <source>Can&apos;t create %1:
 %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="3029"/>
-        <location filename="../../DocumentWidget.cpp" line="3041"/>
-        <location filename="../../DocumentWidget.cpp" line="3054"/>
-        <location filename="../../DocumentWidget.cpp" line="3062"/>
-        <location filename="../../DocumentWidget.cpp" line="3445"/>
-        <location filename="../../DocumentWidget.cpp" line="3452"/>
+        <location filename="../../DocumentWidget.cpp" line="3028"/>
+        <location filename="../../DocumentWidget.cpp" line="3040"/>
+        <location filename="../../DocumentWidget.cpp" line="3053"/>
+        <location filename="../../DocumentWidget.cpp" line="3061"/>
+        <location filename="../../DocumentWidget.cpp" line="3444"/>
+        <location filename="../../DocumentWidget.cpp" line="3451"/>
         <source>Error opening File</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nelze otevřít soubor</translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="3029"/>
+        <location filename="../../DocumentWidget.cpp" line="3028"/>
         <source>Could not open %1%2:
 %3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="3041"/>
+        <location filename="../../DocumentWidget.cpp" line="3040"/>
         <source>Error opening %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nelze otevřít soubor %1</translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="3054"/>
+        <location filename="../../DocumentWidget.cpp" line="3053"/>
         <source>Can&apos;t open directory %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="3062"/>
+        <location filename="../../DocumentWidget.cpp" line="3061"/>
         <source>Can&apos;t open block device %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="3079"/>
-        <location filename="../../DocumentWidget.cpp" line="3138"/>
+        <location filename="../../DocumentWidget.cpp" line="3078"/>
+        <location filename="../../DocumentWidget.cpp" line="3137"/>
         <source>Error while opening File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="3079"/>
+        <location filename="../../DocumentWidget.cpp" line="3078"/>
         <source>Error reading %1
 %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="3138"/>
+        <location filename="../../DocumentWidget.cpp" line="3137"/>
         <source>File is too large to edit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="3293"/>
-        <location filename="../../DocumentWidget.cpp" line="3301"/>
-        <location filename="../../DocumentWidget.cpp" line="3375"/>
-        <location filename="../../DocumentWidget.cpp" line="3963"/>
-        <location filename="../../DocumentWidget.cpp" line="3975"/>
+        <location filename="../../DocumentWidget.cpp" line="3292"/>
+        <location filename="../../DocumentWidget.cpp" line="3300"/>
+        <location filename="../../DocumentWidget.cpp" line="3374"/>
+        <location filename="../../DocumentWidget.cpp" line="3962"/>
+        <location filename="../../DocumentWidget.cpp" line="3974"/>
         <source>Smart Indent</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="3294"/>
+        <location filename="../../DocumentWidget.cpp" line="3293"/>
         <source>Error in smart indent macro:
 %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="3294"/>
-        <location filename="../../DocumentWidget.cpp" line="3376"/>
+        <location filename="../../DocumentWidget.cpp" line="3293"/>
+        <location filename="../../DocumentWidget.cpp" line="3375"/>
         <source>dialogs and shell commands not permitted</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="3301"/>
+        <location filename="../../DocumentWidget.cpp" line="3300"/>
         <source>Smart indent macros must return integer indent distance</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="3376"/>
+        <location filename="../../DocumentWidget.cpp" line="3375"/>
         <source>Error in smart indent modification macro:
 %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="3401"/>
+        <location filename="../../DocumentWidget.cpp" line="3400"/>
         <source>Macro Command in Progress</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="3403"/>
+        <location filename="../../DocumentWidget.cpp" line="3402"/>
         <source>Macro Command in Progress -- Press %1 to Cancel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="3424"/>
+        <location filename="../../DocumentWidget.cpp" line="3423"/>
         <source>Shell Command in Progress</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="3426"/>
+        <location filename="../../DocumentWidget.cpp" line="3425"/>
         <source>Shell Command in Progress -- Press %1 to Cancel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="3744"/>
+        <location filename="../../DocumentWidget.cpp" line="3743"/>
         <source>No match for &quot;%1&quot; in calltips or tags.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="3746"/>
-        <location filename="../../DocumentWidget.cpp" line="6930"/>
+        <location filename="../../DocumentWidget.cpp" line="3745"/>
+        <location filename="../../DocumentWidget.cpp" line="6929"/>
         <source>Tags</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="3746"/>
+        <location filename="../../DocumentWidget.cpp" line="3745"/>
         <source>&quot;%1&quot; not found in tags %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="3746"/>
+        <location filename="../../DocumentWidget.cpp" line="3745"/>
         <source>files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="3746"/>
+        <location filename="../../DocumentWidget.cpp" line="3745"/>
         <source>file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="3819"/>
+        <location filename="../../DocumentWidget.cpp" line="3818"/>
         <location filename="../../DocumentWidget.cpp" line="4722"/>
         <source>Shell Command</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="3819"/>
+        <location filename="../../DocumentWidget.cpp" line="3818"/>
         <location filename="../../DocumentWidget.cpp" line="4723"/>
         <source>Shell command is too long due to
 filename substitutions with &apos;%%&apos; or
@@ -3333,14 +3241,14 @@ line number substitutions with &apos;#&apos;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="3964"/>
+        <location filename="../../DocumentWidget.cpp" line="3963"/>
         <source>No language-specific mode has been set for this file.
 
 To use smart indent in this window, please select a language from the Preferences -&gt; Language Modes menu.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="3976"/>
+        <location filename="../../DocumentWidget.cpp" line="3975"/>
         <source>Smart indent is not available in languagemode
 %1.
 
@@ -3351,22 +3259,22 @@ Preferences -&gt; Language Mode.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="3991"/>
+        <location filename="../../DocumentWidget.cpp" line="3990"/>
         <source>smart indent common initialization macros</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="3999"/>
+        <location filename="../../DocumentWidget.cpp" line="3998"/>
         <source>smart indent initialization macro</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="4012"/>
+        <location filename="../../DocumentWidget.cpp" line="4011"/>
         <source>newline macro</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="4023"/>
+        <location filename="../../DocumentWidget.cpp" line="4022"/>
         <source>smart indent modify macro</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3543,30 +3451,31 @@ does not match any existing style</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="6930"/>
+        <location filename="../../DocumentWidget.cpp" line="6929"/>
         <source>Too many duplicate tags, first %1 shown</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="7079"/>
+        <location filename="../../DocumentWidget.cpp" line="7078"/>
         <source>File not found</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="7080"/>
+        <location filename="../../DocumentWidget.cpp" line="7079"/>
         <source>File %1 not found</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="7099"/>
+        <location filename="../../DocumentWidget.cpp" line="7098"/>
         <source>Tag Error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../DocumentWidget.cpp" line="7100"/>
+        <location filename="../../DocumentWidget.cpp" line="7099"/>
         <source>Definition for %1
 not found in %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Definice pro %1 nenalezena v %2 {1
+?}</translation>
     </message>
 </context>
 <context>
@@ -3574,7 +3483,7 @@ not found in %2</source>
     <message>
         <location filename="../../ElidedLabel.cpp" line="168"/>
         <source>&amp;Copy Full Text</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kopírovat celý text</translation>
     </message>
 </context>
 <context>
@@ -3587,7 +3496,7 @@ not found in %2</source>
     <message>
         <location filename="../../Help.cpp" line="15"/>
         <source>Sorry, but the help system is not yet implemented!</source>
-        <translation>Promiňte ale nápověda není ještě napsána.</translation>
+        <translation>Promiňte ale nápověda není ještě napsána!</translation>
     </message>
 </context>
 <context>
@@ -3648,7 +3557,7 @@ not found in %2</source>
     <message>
         <location filename="../../HighlightPatternModel.cpp" line="77"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Jméno</translation>
     </message>
 </context>
 <context>
@@ -3656,7 +3565,7 @@ not found in %2</source>
     <message>
         <location filename="../../HighlightStyleModel.cpp" line="77"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Jméno</translation>
     </message>
 </context>
 <context>
@@ -3664,13 +3573,13 @@ not found in %2</source>
     <message>
         <location filename="../../KeySequenceEdit.cpp" line="64"/>
         <source>Press shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Stiskni klávesovou zkratku</translation>
     </message>
     <message>
         <location filename="../../KeySequenceEdit.cpp" line="265"/>
         <source>%1, ...</source>
         <extracomment>This text is an &quot;unfinished&quot; shortcut, expands like &quot;Ctrl+A, ...&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1, ...</translation>
     </message>
 </context>
 <context>
@@ -3678,7 +3587,7 @@ not found in %2</source>
     <message>
         <location filename="../../LanguageModeModel.cpp" line="77"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Jméno</translation>
     </message>
 </context>
 <context>
@@ -3686,7 +3595,7 @@ not found in %2</source>
     <message>
         <location filename="../../Main.cpp" line="382"/>
         <source>argument to -do</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -3694,68 +3603,68 @@ not found in %2</source>
     <message>
         <location filename="../../MainWindow.ui" line="14"/>
         <source>NEdit-ng</source>
-        <translation type="unfinished"></translation>
+        <translation>NEdit-ng</translation>
     </message>
     <message>
         <location filename="../../MainWindow.ui" line="54"/>
-        <location filename="../../MainWindow.cpp" line="5029"/>
+        <location filename="../../MainWindow.cpp" line="5040"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../../MainWindow.ui" line="74"/>
         <source>Incremental Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Přírůstkové vyhledávání</translation>
     </message>
     <message>
         <location filename="../../MainWindow.ui" line="87"/>
         <source>Search Backward</source>
-        <translation type="unfinished"></translation>
+        <translation>Zpětné hledání</translation>
     </message>
     <message>
         <location filename="../../MainWindow.ui" line="90"/>
         <source>Rev</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">zpět</translation>
     </message>
     <message>
         <location filename="../../MainWindow.ui" line="100"/>
         <source>Regular Expression</source>
-        <translation type="unfinished"></translation>
+        <translation>Regulární výraz</translation>
     </message>
     <message>
         <location filename="../../MainWindow.ui" line="103"/>
         <source>RegExp</source>
-        <translation type="unfinished"></translation>
+        <translation>RegExp</translation>
     </message>
     <message>
         <location filename="../../MainWindow.ui" line="113"/>
         <source>Case Sensitive</source>
-        <translation type="unfinished"></translation>
+        <translation>Rrozlišovat velikost písmen</translation>
     </message>
     <message>
         <location filename="../../MainWindow.ui" line="116"/>
         <source>Case</source>
-        <translation type="unfinished"></translation>
+        <translation>Velikost</translation>
     </message>
     <message>
         <location filename="../../MainWindow.ui" line="155"/>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Soubor</translation>
     </message>
     <message>
         <location filename="../../MainWindow.ui" line="185"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Úpravy</translation>
     </message>
     <message>
         <location filename="../../MainWindow.ui" line="211"/>
         <source>&amp;Search</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Hledat</translation>
     </message>
     <message>
         <location filename="../../MainWindow.ui" line="236"/>
         <source>&amp;Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Předvolby</translation>
     </message>
     <message>
         <location filename="../../MainWindow.ui" line="240"/>
@@ -3853,8 +3762,8 @@ not found in %2</source>
     </message>
     <message>
         <location filename="../../MainWindow.ui" line="513"/>
-        <location filename="../../MainWindow.cpp" line="653"/>
-        <location filename="../../MainWindow.cpp" line="4212"/>
+        <location filename="../../MainWindow.cpp" line="662"/>
+        <location filename="../../MainWindow.cpp" line="4222"/>
         <source>New &amp;Window</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4752,194 +4661,194 @@ not found in %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="248"/>
+        <location filename="../../MainWindow.cpp" line="249"/>
         <source>edit-find</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="343"/>
-        <location filename="../../MainWindow.cpp" line="346"/>
+        <location filename="../../MainWindow.cpp" line="352"/>
+        <location filename="../../MainWindow.cpp" line="355"/>
         <source>tab-close</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="558"/>
+        <location filename="../../MainWindow.cpp" line="567"/>
         <source>Shift &amp;Left	[Shift] Ctrl+9</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="559"/>
+        <location filename="../../MainWindow.cpp" line="568"/>
         <source>Shift Ri&amp;ght	[Shift] Ctrl+0</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="560"/>
+        <location filename="../../MainWindow.cpp" line="569"/>
         <source>&amp;Find...	[Shift] Ctrl+F</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="561"/>
+        <location filename="../../MainWindow.cpp" line="570"/>
         <source>F&amp;ind Again	[Shift] Ctrl+G</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="562"/>
+        <location filename="../../MainWindow.cpp" line="571"/>
         <source>Find &amp;Selection	[Shift] Ctrl+H</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="563"/>
+        <location filename="../../MainWindow.cpp" line="572"/>
         <source>Fi&amp;nd Incremental	[Shift] Ctrl+I</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="564"/>
+        <location filename="../../MainWindow.cpp" line="573"/>
         <source>&amp;Replace...	[Shift] Ctrl+R</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="565"/>
+        <location filename="../../MainWindow.cpp" line="574"/>
         <source>Replace Find &amp;Again	[Shift] Ctrl+T</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="566"/>
+        <location filename="../../MainWindow.cpp" line="575"/>
         <source>Re&amp;place Again	[Shift] Alt+T</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="567"/>
+        <location filename="../../MainWindow.cpp" line="576"/>
         <source>Mar&amp;k	Alt+M a-z</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="568"/>
+        <location filename="../../MainWindow.cpp" line="577"/>
         <source>G&amp;oto Mark	[Shift] Alt+G a-z</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="569"/>
+        <location filename="../../MainWindow.cpp" line="578"/>
         <source>Goto &amp;Matching (..)	[Shift] Ctrl+M</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="626"/>
+        <location filename="../../MainWindow.cpp" line="635"/>
         <source>Error Opening File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="627"/>
+        <location filename="../../MainWindow.cpp" line="636"/>
         <source>File could not be opened, would you like to remove it from the &apos;Open Previous&apos; list?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="651"/>
-        <location filename="../../MainWindow.cpp" line="4210"/>
+        <location filename="../../MainWindow.cpp" line="660"/>
+        <location filename="../../MainWindow.cpp" line="4220"/>
         <source>New &amp;Tab</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="802"/>
+        <location filename="../../MainWindow.cpp" line="812"/>
         <source>Open File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="898"/>
+        <location filename="../../MainWindow.cpp" line="908"/>
         <source>Include File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="1515"/>
+        <location filename="../../MainWindow.cpp" line="1525"/>
         <source>Untitled</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="1517"/>
+        <location filename="../../MainWindow.cpp" line="1527"/>
         <source>Untitled_%1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="1593"/>
-        <location filename="../../MainWindow.cpp" line="5024"/>
-        <location filename="../../MainWindow.cpp" line="5367"/>
+        <location filename="../../MainWindow.cpp" line="1603"/>
+        <location filename="../../MainWindow.cpp" line="5035"/>
+        <location filename="../../MainWindow.cpp" line="5378"/>
         <source>%1%2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1%2</translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="1817"/>
+        <location filename="../../MainWindow.cpp" line="1827"/>
         <source># File name database for NEdit Open Previous command</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="1904"/>
+        <location filename="../../MainWindow.cpp" line="1914"/>
         <source>New Tab</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="1905"/>
+        <location filename="../../MainWindow.cpp" line="1915"/>
         <source>Close Tab</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="1907"/>
-        <location filename="../../MainWindow.cpp" line="5872"/>
+        <location filename="../../MainWindow.cpp" line="1917"/>
+        <location filename="../../MainWindow.cpp" line="5884"/>
         <source>Detach Tab</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="1908"/>
+        <location filename="../../MainWindow.cpp" line="1918"/>
         <source>Move Tab To...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="1981"/>
-        <location filename="../../MainWindow.cpp" line="2029"/>
+        <location filename="../../MainWindow.cpp" line="1991"/>
+        <location filename="../../MainWindow.cpp" line="2039"/>
         <source>%1/%2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1/%2</translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="2097"/>
+        <location filename="../../MainWindow.cpp" line="2107"/>
         <source>Error opening File</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nelze otevřít soubor</translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="2098"/>
+        <location filename="../../MainWindow.cpp" line="2108"/>
         <source>Could not open %1%2:
 %3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="2098"/>
+        <location filename="../../MainWindow.cpp" line="2108"/>
         <source>No such file or directory</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="2352"/>
+        <location filename="../../MainWindow.cpp" line="2362"/>
         <source>Insert Ctrl Code</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="2353"/>
+        <location filename="../../MainWindow.cpp" line="2363"/>
         <source>ASCII Character Code:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="2408"/>
+        <location filename="../../MainWindow.cpp" line="2418"/>
         <source>Goto Line Number</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="2409"/>
+        <location filename="../../MainWindow.cpp" line="2419"/>
         <source>Goto Line (and/or Column) Number:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="3069"/>
+        <location filename="../../MainWindow.cpp" line="3079"/>
         <source>Mark</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="3070"/>
+        <location filename="../../MainWindow.cpp" line="3080"/>
         <source>Enter a single letter label to use for recalling
 the current selection and cursor position.
 
@@ -4948,12 +4857,12 @@ followed immediately by a letter key (a-z))</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="3162"/>
+        <location filename="../../MainWindow.cpp" line="3172"/>
         <source>Goto Mark</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="3163"/>
+        <location filename="../../MainWindow.cpp" line="3173"/>
         <source>Enter the single letter label used to mark
 the selection and/or cursor position.
 
@@ -4962,114 +4871,114 @@ key, followed immediately by the letter)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="3388"/>
-        <location filename="../../MainWindow.cpp" line="3429"/>
+        <location filename="../../MainWindow.cpp" line="3398"/>
+        <location filename="../../MainWindow.cpp" line="3439"/>
         <source>Error Reading File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="3389"/>
+        <location filename="../../MainWindow.cpp" line="3399"/>
         <source>Error reading tips file:
 &apos;%1&apos;
 tips not loaded</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="3398"/>
+        <location filename="../../MainWindow.cpp" line="3408"/>
         <source>Load Calltips File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="3430"/>
+        <location filename="../../MainWindow.cpp" line="3440"/>
         <source>Error reading ctags file:
 &apos;%1&apos;
 tags not loaded</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="3439"/>
+        <location filename="../../MainWindow.cpp" line="3449"/>
         <source>Load Tags File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="3474"/>
+        <location filename="../../MainWindow.cpp" line="3484"/>
         <source>Load Macro File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="3888"/>
+        <location filename="../../MainWindow.cpp" line="3898"/>
         <source>Language Mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="3889"/>
+        <location filename="../../MainWindow.cpp" line="3899"/>
         <source>No Language Modes defined</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="3947"/>
-        <location filename="../../MainWindow.cpp" line="3958"/>
+        <location filename="../../MainWindow.cpp" line="3957"/>
+        <location filename="../../MainWindow.cpp" line="3968"/>
         <source>Command Shell</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="3948"/>
+        <location filename="../../MainWindow.cpp" line="3958"/>
         <source>Enter shell path:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="3959"/>
+        <location filename="../../MainWindow.cpp" line="3969"/>
         <source>The selected shell is not available.
 Do you want to use it anyway?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="4536"/>
+        <location filename="../../MainWindow.cpp" line="4546"/>
         <source>Custom... (%1 x %2)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="4538"/>
+        <location filename="../../MainWindow.cpp" line="4548"/>
         <source>Custom...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="4798"/>
+        <location filename="../../MainWindow.cpp" line="4808"/>
         <source>Save File As</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="4809"/>
+        <location filename="../../MainWindow.cpp" line="4820"/>
         <source>&amp;Unix</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="4810"/>
+        <location filename="../../MainWindow.cpp" line="4821"/>
         <source>D&amp;OS</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="4811"/>
+        <location filename="../../MainWindow.cpp" line="4822"/>
         <source>&amp;Macintosh</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="4836"/>
+        <location filename="../../MainWindow.cpp" line="4847"/>
         <source>Format: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="4841"/>
+        <location filename="../../MainWindow.cpp" line="4852"/>
         <source>&amp;Add line breaks where wrapped</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="4848"/>
+        <location filename="../../MainWindow.cpp" line="4859"/>
         <source>Add Wrap</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="4849"/>
+        <location filename="../../MainWindow.cpp" line="4860"/>
         <source>This operation adds permanent line breaks to match the automatic wrapping done by the Continuous Wrap mode Preferences Option.
 
 *** This Option is Irreversable ***
@@ -5078,237 +4987,237 @@ Once newlines are inserted, continuous wrapping will no longer work automaticall
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="4949"/>
+        <location filename="../../MainWindow.cpp" line="4960"/>
         <source>Discard Changes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="4950"/>
+        <location filename="../../MainWindow.cpp" line="4961"/>
         <source>Discard changes to
 %1%2?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="4959"/>
+        <location filename="../../MainWindow.cpp" line="4970"/>
         <source>Reload File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="4961"/>
+        <location filename="../../MainWindow.cpp" line="4972"/>
         <source>Re-load file
 %1%2?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="4962"/>
+        <location filename="../../MainWindow.cpp" line="4973"/>
         <source>Re-read</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="5016"/>
+        <location filename="../../MainWindow.cpp" line="5027"/>
         <source>Editing: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="5024"/>
-        <location filename="../../MainWindow.cpp" line="5367"/>
-        <location filename="../../MainWindow.cpp" line="5369"/>
+        <location filename="../../MainWindow.cpp" line="5035"/>
+        <location filename="../../MainWindow.cpp" line="5378"/>
+        <location filename="../../MainWindow.cpp" line="5380"/>
         <source>*</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="5035"/>
+        <location filename="../../MainWindow.cpp" line="5046"/>
         <source>and %1.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="5037"/>
+        <location filename="../../MainWindow.cpp" line="5048"/>
         <source>%1, </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="5041"/>
+        <location filename="../../MainWindow.cpp" line="5052"/>
         <source>
 
 Exit NEdit?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="5044"/>
-        <location filename="../../MainWindow.cpp" line="5047"/>
+        <location filename="../../MainWindow.cpp" line="5055"/>
+        <location filename="../../MainWindow.cpp" line="5058"/>
         <source>Exit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="5087"/>
+        <location filename="../../MainWindow.cpp" line="5098"/>
         <source>Default Preferences</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="5091"/>
+        <location filename="../../MainWindow.cpp" line="5102"/>
         <source>Default Preferences have changed.
 Save changes to NEdit preference file?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="5092"/>
+        <location filename="../../MainWindow.cpp" line="5103"/>
         <source>Default Preferences have changed.
 SAVING CHANGES WILL INCORPORATE ADDITIONAL SETTINGS FROM FILE: %s</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="5095"/>
+        <location filename="../../MainWindow.cpp" line="5106"/>
         <source>Don&apos;t Save</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="5168"/>
+        <location filename="../../MainWindow.cpp" line="5179"/>
         <source>Close Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="5169"/>
+        <location filename="../../MainWindow.cpp" line="5180"/>
         <source>Close ALL documents in this window?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="5280"/>
+        <location filename="../../MainWindow.cpp" line="5291"/>
         <source>Repeat Macro</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="5281"/>
+        <location filename="../../MainWindow.cpp" line="5292"/>
         <source>No previous commands or learn/replay sequences to repeat</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="5369"/>
+        <location filename="../../MainWindow.cpp" line="5380"/>
         <source>%2%1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%2%1</translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="5374"/>
+        <location filename="../../MainWindow.cpp" line="5385"/>
         <source>%1 - %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="5873"/>
+        <location filename="../../MainWindow.cpp" line="5885"/>
         <source>Detach %1?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="5913"/>
+        <location filename="../../MainWindow.cpp" line="5925"/>
         <source>No Language Modes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="5914"/>
+        <location filename="../../MainWindow.cpp" line="5926"/>
         <source>No Language Modes available for syntax highlighting
 Add language modes under Preferenses-&gt;Language Modes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="6032"/>
-        <location filename="../../MainWindow.cpp" line="6061"/>
+        <location filename="../../MainWindow.cpp" line="6044"/>
+        <location filename="../../MainWindow.cpp" line="6073"/>
         <source>Wrap Search</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="6034"/>
+        <location filename="../../MainWindow.cpp" line="6046"/>
         <source>Continue search from beginning of file?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="6035"/>
-        <location filename="../../MainWindow.cpp" line="6064"/>
+        <location filename="../../MainWindow.cpp" line="6047"/>
+        <location filename="../../MainWindow.cpp" line="6076"/>
         <source>Continue</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="6063"/>
+        <location filename="../../MainWindow.cpp" line="6075"/>
         <source>Continue search from end of file?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="6088"/>
-        <location filename="../../MainWindow.cpp" line="6770"/>
-        <location filename="../../MainWindow.cpp" line="6890"/>
+        <location filename="../../MainWindow.cpp" line="6100"/>
+        <location filename="../../MainWindow.cpp" line="6782"/>
+        <location filename="../../MainWindow.cpp" line="6902"/>
         <source>String not found</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="6088"/>
-        <location filename="../../MainWindow.cpp" line="6770"/>
-        <location filename="../../MainWindow.cpp" line="6890"/>
+        <location filename="../../MainWindow.cpp" line="6100"/>
+        <location filename="../../MainWindow.cpp" line="6782"/>
+        <location filename="../../MainWindow.cpp" line="6902"/>
         <source>String was not found</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="6541"/>
+        <location filename="../../MainWindow.cpp" line="6553"/>
         <source>Wrong Selection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="6541"/>
+        <location filename="../../MainWindow.cpp" line="6553"/>
         <source>Selection not appropriate for searching</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="6808"/>
-        <location filename="../../MainWindow.cpp" line="6821"/>
+        <location filename="../../MainWindow.cpp" line="6820"/>
+        <location filename="../../MainWindow.cpp" line="6833"/>
         <source>Substitution Failed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="6809"/>
+        <location filename="../../MainWindow.cpp" line="6821"/>
         <source>The result length of the substitution exceeded an internal limit.
 The substitution is canceled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="6823"/>
+        <location filename="../../MainWindow.cpp" line="6835"/>
         <source>The result length of the substitution exceeded an internal limit.
 Executing the substitution will result in loss of data.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="7092"/>
+        <location filename="../../MainWindow.cpp" line="7104"/>
         <source>macro menu command</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="7116"/>
+        <location filename="../../MainWindow.cpp" line="7128"/>
         <source>background menu macro</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="7181"/>
+        <location filename="../../MainWindow.cpp" line="7193"/>
         <source> DOS</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="7183"/>
+        <location filename="../../MainWindow.cpp" line="7195"/>
         <source> Mac</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="7196"/>
-        <location filename="../../MainWindow.cpp" line="7203"/>
+        <location filename="../../MainWindow.cpp" line="7208"/>
+        <location filename="../../MainWindow.cpp" line="7215"/>
         <source>%1%2%3 %4 bytes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="7197"/>
+        <location filename="../../MainWindow.cpp" line="7209"/>
         <source>L: ---  C: ---</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="7199"/>
+        <location filename="../../MainWindow.cpp" line="7211"/>
         <source>L: %1  C: %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../MainWindow.cpp" line="7201"/>
+        <location filename="../../MainWindow.cpp" line="7213"/>
         <source>%1%2%3 byte %4 of %5</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5318,7 +5227,7 @@ Executing the substitution will result in loss of data.</source>
     <message>
         <location filename="../../MenuItemModel.cpp" line="75"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Jméno</translation>
     </message>
 </context>
 <context>
@@ -5456,63 +5365,65 @@ SAVING WILL INCORPORATE SETTINGS FROM FILE: %2</source>
 <context>
     <name>Tags</name>
     <message>
-        <location filename="../../Tags.cpp" line="157"/>
-        <location filename="../../Tags.cpp" line="183"/>
-        <location filename="../../Tags.cpp" line="543"/>
+        <location filename="../../Tags.cpp" line="313"/>
+        <location filename="../../Tags.cpp" line="757"/>
+        <location filename="../../Tags.cpp" line="783"/>
         <source>%1%2</source>
         <translation>%1%2</translation>
     </message>
     <message>
-        <location filename="../../Tags.cpp" line="225"/>
-        <location filename="../../Tags.cpp" line="227"/>
-        <location filename="../../Tags.cpp" line="290"/>
-        <location filename="../../Tags.cpp" line="359"/>
+        <location filename="../../Tags.cpp" line="825"/>
+        <location filename="../../Tags.cpp" line="827"/>
+        <location filename="../../Tags.cpp" line="890"/>
+        <location filename="../../Tags.cpp" line="959"/>
         <source>%1/%2</source>
         <translation>%1/%2</translation>
     </message>
     <message>
-        <location filename="../../Tags.cpp" line="587"/>
+        <location filename="../../Tags.cpp" line="357"/>
         <source>Loading tags file...</source>
-        <translation type="unfinished"></translation>
+        <translation>Načítá se soubor značek ...</translation>
     </message>
     <message>
-        <location filename="../../Tags.cpp" line="837"/>
+        <location filename="../../Tags.cpp" line="1219"/>
         <source>Error opening File</source>
         <translation>Nelze otevřít soubor</translation>
     </message>
     <message>
-        <location filename="../../Tags.cpp" line="838"/>
+        <location filename="../../Tags.cpp" line="1220"/>
         <source>Error opening %1</source>
         <translation>Nelze otevřít soubor %1</translation>
     </message>
     <message>
-        <location filename="../../Tags.cpp" line="851"/>
+        <location filename="../../Tags.cpp" line="1233"/>
         <source>Tags Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Chyba značky (Tagu)</translation>
     </message>
     <message>
-        <location filename="../../Tags.cpp" line="852"/>
+        <location filename="../../Tags.cpp" line="1234"/>
         <source>%1
  not long enough for definition to be on line %2</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>I didn&apos;t udertud the meeaning of this error message...</translatorcomment>
+        <translation type="unfinished">%1
+není dostatečně dlouhá na to, aby definice mohla být  na řádku %2</translation>
     </message>
     <message>
-        <location filename="../../Tags.cpp" line="860"/>
+        <location filename="../../Tags.cpp" line="1242"/>
         <source>Tag not found</source>
-        <translation type="unfinished"></translation>
+        <translation>Značka (tag) nenalezen</translation>
     </message>
     <message>
-        <location filename="../../Tags.cpp" line="861"/>
+        <location filename="../../Tags.cpp" line="1243"/>
         <source>Definition for %1 not found in %2</source>
         <translation>Definice pro %1 nenalezena v %2</translation>
     </message>
     <message>
-        <location filename="../../Tags.cpp" line="912"/>
+        <location filename="../../Tags.cpp" line="1294"/>
         <source>Out of Memory</source>
         <translation>Nedostatek paměti</translation>
     </message>
     <message>
-        <location filename="../../Tags.cpp" line="913"/>
+        <location filename="../../Tags.cpp" line="1295"/>
         <source>Can&apos;t allocate memory</source>
         <translation>Nepodařilo se alokovat pamět </translation>
     </message>

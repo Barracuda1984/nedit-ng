@@ -743,79 +743,80 @@ Odpovídající (..) Popředí</translation>
         <location filename="../../DialogFind.ui" line="145"/>
         <location filename="../../DialogFind.cpp" line="107"/>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation>Najít</translation>
     </message>
     <message>
         <location filename="../../DialogFind.ui" line="22"/>
         <source>String to Find:</source>
-        <translation type="unfinished"></translation>
+        <translation>Řetězec k vyhledání:</translation>
     </message>
     <message>
         <location filename="../../DialogFind.ui" line="42"/>
         <source>(use up arrow key to recall previous)</source>
-        <translation type="unfinished"></translation>
+        <translation>(k vyvolání předchozího použijte šipku nahoru)</translation>
     </message>
     <message>
         <location filename="../../DialogFind.ui" line="51"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Hledat</translation>
     </message>
     <message>
         <location filename="../../DialogFind.ui" line="63"/>
         <source>&amp;Regular Expression</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Regulární výraz</translation>
     </message>
     <message>
         <location filename="../../DialogFind.ui" line="70"/>
         <source>&amp;Case Sensitive</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rozlišovat velikost písmen</translation>
     </message>
     <message>
         <location filename="../../DialogFind.ui" line="77"/>
         <source>W&amp;hole Word</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Celé Slovo</translation>
     </message>
     <message>
         <location filename="../../DialogFind.ui" line="101"/>
         <source>Search &amp;Backward</source>
-        <translation type="unfinished"></translation>
+        <translation>Zpětné &amp;hledání</translation>
     </message>
     <message>
         <location filename="../../DialogFind.ui" line="121"/>
         <source>&amp;Keep Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nech otevřený dialog</translation>
     </message>
     <message>
         <location filename="../../DialogFind.ui" line="152"/>
         <source>Return</source>
-        <translation type="unfinished"></translation>
+        <translation>Zpět</translation>
     </message>
     <message>
         <location filename="../../DialogFind.ui" line="175"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Zrušit</translation>
     </message>
     <message>
         <location filename="../../DialogFind.ui" line="182"/>
         <source>Esc</source>
-        <translation type="unfinished"></translation>
+        <translation>Esc</translation>
     </message>
     <message>
         <location filename="../../DialogFind.cpp" line="105"/>
         <location filename="../../DialogFind.cpp" line="339"/>
         <source>Find (in %1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Najít (v %1)</translation>
     </message>
     <message>
         <location filename="../../DialogFind.cpp" line="258"/>
         <source>Regex Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Chyba regulárníhovýrazu</translation>
     </message>
     <message>
         <location filename="../../DialogFind.cpp" line="259"/>
         <source>Please respecify the search string:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Zadejte řetězec vyhledávání znovu:
+% 1</translation>
     </message>
 </context>
 <context>
@@ -5404,7 +5405,7 @@ SAVING WILL INCORPORATE SETTINGS FROM FILE: %2</source>
         <source>%1
  not long enough for definition to be on line %2</source>
         <translatorcomment>I didn&apos;t udertud the meeaning of this error message...</translatorcomment>
-        <translation type="unfinished">%1
+        <translation>%1
 není dostatečně dlouhá na to, aby definice mohla být  na řádku %2</translation>
     </message>
     <message>

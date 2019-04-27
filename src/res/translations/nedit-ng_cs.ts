@@ -596,12 +596,12 @@ Odpovídající (..) Popředí</translation>
         <location filename="../../DialogDrawingStyles.ui" line="138"/>
         <location filename="../../DialogDrawingStyles.ui" line="159"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../../DialogDrawingStyles.ui" line="147"/>
         <source>Background Color (optional)</source>
-        <translation type="unfinished"></translation>
+        <translation>Barva pozadí (Volitelná)</translation>
     </message>
     <message>
         <location filename="../../DialogDrawingStyles.ui" line="168"/>
@@ -616,7 +616,7 @@ Odpovídající (..) Popředí</translation>
     <message>
         <location filename="../../DialogDrawingStyles.ui" line="188"/>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Tučné</translation>
     </message>
     <message>
         <location filename="../../DialogDrawingStyles.cpp" line="99"/>
@@ -626,7 +626,7 @@ Odpovídající (..) Popředí</translation>
     <message>
         <location filename="../../DialogDrawingStyles.cpp" line="100"/>
         <source>black</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">černá</translation>
     </message>
     <message>
         <location filename="../../DialogDrawingStyles.cpp" line="228"/>
@@ -690,7 +690,7 @@ Odpovídající (..) Popředí</translation>
     <message>
         <location filename="../../DialogDrawingStyles.cpp" line="530"/>
         <source>#%1</source>
-        <translation type="unfinished"></translation>
+        <translation>#%1</translation>
     </message>
 </context>
 <context>
@@ -2535,7 +2535,7 @@ Replay Macro</source>
     <message>
         <location filename="../../DialogWindowSize.ui" line="32"/>
         <source>x</source>
-        <translation type="unfinished"></translation>
+        <translation>x</translation>
     </message>
     <message>
         <location filename="../../DialogWindowSize.cpp" line="27"/>
@@ -2543,7 +2543,7 @@ Replay Macro</source>
         <location filename="../../DialogWindowSize.cpp" line="38"/>
         <location filename="../../DialogWindowSize.cpp" line="44"/>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Varovani</translation>
     </message>
     <message>
         <location filename="../../DialogWindowSize.cpp" line="27"/>
